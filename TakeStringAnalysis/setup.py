@@ -7,8 +7,8 @@ with open("requirements.txt") as f:
     requirements = f.read().splitlines()
 
 setuptools.setup(
-    name="StringAnalysis",
-    version="0.0.1",
+    name="TakeStringAnalysis",
+    version="0.0.2",
     author="Renan Santos Mendes",
     author_email="renans@take.net",
 	keywords='string',
